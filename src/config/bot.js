@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "Annapurna Roleplay", // required by Discord API, not shown in the client
         state: "watching",     // this is what people actually see
-        type: 0,               // Custom
+        type: 3,               // Custom
       },
     ],
   },
